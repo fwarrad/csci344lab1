@@ -41,7 +41,28 @@ body {
   float: right;
 }
 
-.right_side p {
-  text-align: center;
+.left_side h1 {
+  font-size: 18pt;
 }
 
+.left_side h2 {
+  font-size: 12pt;
+}
+
+.right_side h3 {
+  text-align: left;
+}
+
+.right_side h4 {
+  text-align: left;
+  font-size: 10pt;
+}
+
+.right_side p {
+  text-align: left;
+}
+
+.right_side p {
+  text-align: left;
+  font-size: 10pt;
+}
