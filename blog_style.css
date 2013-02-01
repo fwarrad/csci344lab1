@@ -1,6 +1,6 @@
 body {
   font-family: 'Ubuntu' sans-serif;
-  background: #dff;
+  background: #05296E;
 }
 
 .content {
@@ -10,8 +10,8 @@ body {
 
 .header {
   
-  background: red;
-  border: 10px solid green;
+  background: #000000;
+  color: #fff;
   padding: 10px;
   font-size: 20pt;
   font-weight: bold;
@@ -20,7 +20,7 @@ body {
 
 .left_side {
   
-  background: blue;
+  background: #cccccc;
   color: #fff;
   width: 700px;
   min-height: 300px;
@@ -31,7 +31,8 @@ body {
 }
 
 .right_side {
-  background: yellow;
+  background: #333333;
+  color: #fff;
   width: 250px;
   min-height: 300px;
   padding: 0 5px 0 5px;
