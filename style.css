@@ -1,15 +1,21 @@
 body {
   font-family: 'Ubuntu' sans-serif;
   background: #05296E;
+  margin-top:150px;
+  margin-bottom:125px;
+  margin-right:50px;
+  margin-left:50px;
 }
 
 .content {
   background: #6B8FD4;
-  font-size: 40pt;
+  font-size: 25pt;
   font-weight: bold;
   text-align:center;
   color:#cccccc;
-  width: 960px;
+  width: 760px;
+  min-height: 100px;
+
   margin: auto;
 }
 
@@ -20,7 +26,7 @@ body {
   font-weight: bold;
   color:#cccccc;
   text-align:center;
-  min-height: 100px;
+  min-height: 10px;
   margin: 0;
   float: center;
   
@@ -29,7 +35,7 @@ body {
 .logos {
   
   background: #6B8FD4;
-  min-height: 250px;
+  min-height: 100px;
   margin: 0;
   float: center;
   
