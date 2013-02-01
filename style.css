@@ -1,42 +1,38 @@
 body {
   font-family: 'Ubuntu' sans-serif;
-  background: #dff;
+  background: #05296E;
 }
 
 .content {
+  background: #6B8FD4;
+  font-size: 40pt;
+  font-weight: bold;
+  text-align:center;
+  color:#cccccc;
   width: 960px;
   margin: auto;
 }
 
-.header {
+.info {
   
-  background: red;
-  border: 10px solid green;
-  padding: 10px;
-  font-size: 20pt;
+  background: #6B8FD4;
+  font-size: 12pt;
   font-weight: bold;
+  color:#cccccc;
+  text-align:center;
+  min-height: 100px;
+  margin: 0;
+  float: center;
   
 }
 
-.left_side {
+.logos {
   
-  background: blue;
-  color: #fff;
-  width: 700px;
-  min-height: 300px;
-  padding: 0;
+  background: #6B8FD4;
+  min-height: 250px;
   margin: 0;
-  float: left;
+  float: center;
   
-}
-
-.right_side {
-  background: yellow;
-  width: 250px;
-  min-height: 300px;
-  padding: 0 5px 0 5px;
-  margin: 0;
-  float: right;
 }
 
 .right_side p {
